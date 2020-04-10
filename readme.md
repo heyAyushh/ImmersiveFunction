@@ -4,14 +4,16 @@
 
 This is a helper program to show, how we can integrate immersive reader to any HTML web page using Azure functions and any static website Hosting.
 
-Authenticate your immersive Reader with azure function and don't leave your secrets in client.
+![Demo](demo.gif)
 
-#### Read my [blog here](https://kutt.it/immersiveFunction)
+#### Demo [here](https://immersivefn.now.sh/).
+
+#### Read my [blog here](https://kutt.it/immersiveFunction).
 
 ***
 ## Quick Deploy to Azure  
   
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FheyAyushh%2FImmersiveFunction%2Fmaster%2Fazuredeploy.json)  
+[![Deploy to Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FheyAyushh%2FImmersiveFunction%2Fmaster%2Fazuredeploy.json)  
 
 - You should go and read my blog first.
 - Set up your [credentials](https://docs.microsoft.com/en-us/azure/cognitive-services/immersive-reader/how-to-create-immersive-reader) in `.env` file.
